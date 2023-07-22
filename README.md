@@ -28,7 +28,7 @@ To install necesary dependencies, run the following command:
 
 ## Usage
 
-          node index.js
+          node server.js
 
 ## license
 
@@ -53,4 +53,4 @@ https://www.github.com/rgadewar
 
 ## Heroku App
 
-- https://dashboard.heroku.com/apps/node-js-note-taker-app
+- https://node-js-note-taker-app-fc3aa69be8cb.herokuapp.com
