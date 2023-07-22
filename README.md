@@ -1,5 +1,5 @@
 
-# *Note Takerr**
+# **Node-JS-Note-Taker-App**
 ![GitHub license](https://img.shields.io/badge/license-MIT-red)
   
 ## Description 
