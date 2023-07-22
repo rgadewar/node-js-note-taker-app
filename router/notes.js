@@ -36,7 +36,6 @@ notes.get("/notes", (req, res) => {
       }      
       const data = JSON.parse(response);
       const newNote = req.body;
-      // console.log(newNote );
       const uniqueId = data.length.toString();
       newNote.id = uniqueId;
       data.push(newNote);

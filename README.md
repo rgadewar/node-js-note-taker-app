@@ -5,9 +5,16 @@
 ## Description 
 
  Challenge is to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+ ![Image 1](Image1.png)   
+![Image 2](Image2.png)
 
-### App working example
-[Video Link](https://drive.google.com/file/d/1Vemktri1mAeU7rMFtyqG0WaciJ0rYoiN/view)
+## User Story
+AS A user, I want to be able to write and save notes
+
+I WANT to be able to delete notes I've written before
+
+SO THAT I can organize my thoughts and keep track of tasks I need to complete
+
 
 ## Table of contents
 
@@ -49,7 +56,7 @@ https://www.github.com/rgadewar
 
 ## Repository
 
-- [Project Repo](https://github.com/rgadewar/challenge11)
+- [Project Repo](https://github.com/rgadewar/node-js-note-taker-app)
 
 ## Heroku App
 
